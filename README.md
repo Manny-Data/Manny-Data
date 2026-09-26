@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">👋 Oi, meu nome é Nathan!<br><br>Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente focado em Cibersegurança, Resposta a Incidentes e Análise de Dados.<br><br>🔎 Curto investigar coisas: forense digital, logs, incidentes de segurança<br>📊 Também mexo com análise de dados e Power BI<br>🐧 Uso Linux no dia a dia<br>🌱 Sempre estudando algo novo na área de TI<br>💼 De olho em oportunidades como Especialista em TI / Analista Forense<br>🗣️ Falo português e inglês</h3>
+<h3 data-importer="text" align="left">👋 Olá, meu nome é Nathan!<br><br>Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente focado em Cibersegurança, Resposta a Incidentes e Análise de Dados.<br><br>🔎 Curto investigar coisas: forense digital, logs, incidentes de segurança<br>📊 Também mexo com análise de dados e Power BI<br>🐧 Uso Linux no dia a dia<br>🌱 Sempre estudando algo novo na área de TI<br>💼 De olho em oportunidades como Especialista em TI / Analista Forense<br>🗣️ Falo português e inglês</h3>
 
 ###
 
